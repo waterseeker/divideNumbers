@@ -1,0 +1,8 @@
+/Users/wayneburris/Desktop/Projects/C#Projects/divNumbers/bin/Debug/netcoreapp1.1/divNumbers.deps.json
+/Users/wayneburris/Desktop/Projects/C#Projects/divNumbers/bin/Debug/netcoreapp1.1/divNumbers.runtimeconfig.json
+/Users/wayneburris/Desktop/Projects/C#Projects/divNumbers/bin/Debug/netcoreapp1.1/divNumbers.runtimeconfig.dev.json
+/Users/wayneburris/Desktop/Projects/C#Projects/divNumbers/bin/Debug/netcoreapp1.1/divNumbers.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/divNumbers/bin/Debug/netcoreapp1.1/divNumbers.pdb
+/Users/wayneburris/Desktop/Projects/C#Projects/divNumbers/obj/Debug/netcoreapp1.1/divNumbers.AssemblyInfo.cs
+/Users/wayneburris/Desktop/Projects/C#Projects/divNumbers/obj/Debug/netcoreapp1.1/divNumbers.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/divNumbers/obj/Debug/netcoreapp1.1/divNumbers.pdb
